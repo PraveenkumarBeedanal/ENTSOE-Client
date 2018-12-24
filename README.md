@@ -33,12 +33,6 @@ Application dependencies in [requirements.txt](requirements.txt)
 
 
 
-## TODO
-
-1. Auth to firebase
-2. ...
-
-
 ## Helpful links
 * [Save data to firebase via REST](https://firebase.google.com/docs/database/rest/save-data?authuser=1)
 
